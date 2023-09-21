@@ -14,7 +14,15 @@ date: "2023-10-19"
 
 # Introduction
 
-TO DO write an introduction here
+👥 We're introducing Samuel Orso and Aleksandr Shemendyuk with profiles detailing roles, hobbies, quotes, schedule, and pictures. It's a sneak peek into their life!
+
+📊 Want to learn R Markdown syntax? We offer practical examples, discussing caching, sample creation, result comparison, and making histograms.
+
+🧮 Finding equations difficult? We'll guide you on embedding equations seamlessly into your text, with plenty of examples.
+
+🎨 We'll also explore fun text formatting techniques like creating buttons and colorful boxes.
+
+📚 For a complete guide, check the final reference section – a must-have companion for this journey.
 
 # Group Members
 
