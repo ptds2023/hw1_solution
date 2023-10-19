@@ -1,5 +1,5 @@
 ---
-title: "Homework 1 - Solutions"
+title: "Homework 1 - Solution"
 author:
   - Samuel Orso
   - Aleksandr Shemendyuk
@@ -22,7 +22,7 @@ date: "2023-10-19"
 
 🎨 We'll also explore fun text formatting techniques like creating buttons and colorful boxes.
 
-📚 For a complete guide, check the final reference section – a must-have companion for this journey.
+📚 For a complete guide, check the final reference section -- a must-have companion for this journey.
 
 # Group Members
 
@@ -44,20 +44,19 @@ My hobbies are...💡
 
 ## Aleksandr SHEMENDYUK
 
-Assistant in PTDS at UNIL, PhD student at Department of Actuarial Science
+<figure>
+  <img src="AS_business_chess.png" width="350px" style="display: block; margin: auto;">
+</figure>
 
-![UNIL picture](https://applicationspub.unil.ch/interpub/noauth/php/Un/photo/1207669.jpg)
+Hello everyone! I'm Aleksandr, a PhD student in Actuarial Science and your teaching assistant. When I'm not diving into research, you might find me snowboarding down slopes 🏂, trekking up mountains 🏔, tinkering with AI 🤖, or playing chess ♟. I'm dedicated and always aim for excellence. Let's make this academic journey memorable together! 🌟📚
 
-Sometimes I play chess ♟️, geoguessr 📍, or go for hikes 🏔️. And many other things, I've already lost count..
-
-![This is how I created this solutions file](https://media2.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e474otwc5f6eihnsw1jxysi5hr2n29c11wouqdyembh&rid=giphy.gif&ct=g)
+![This is how I created this solutions file...](https://media2.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e474otwc5f6eihnsw1jxysi5hr2n29c11wouqdyembh&rid=giphy.gif&ct=g)
 
 > "As far as you can avoid it, do not give grief to anyone. Never inflict your rage on another. If you hope for eternal rest, feel the pain yourself; but don't hurt others." -- Omar Khayyám
 
-| Class  | Time          |
-|--------|---------------|
-| PTDS   | 8h30 - 12h00  |
-| French | 12h30 - 14h00 |
+| Class | Time         |
+|-------|--------------|
+| PTDS  | 8h30 - 12h00 |
 
 : Classes of Aleksandr SHEMENDYUK
 
@@ -195,4 +194,5 @@ This is the solution to the problem.
 
 # References
 
-<div id="refs"></div>
+::: {#refs}
+:::
