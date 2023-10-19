@@ -44,7 +44,9 @@ My hobbies are...💡
 
 ## Aleksandr SHEMENDYUK
 
-![](https://avatars.githubusercontent.com/u/15173513?v=4)
+<figure>
+  <img src="AS_business_chess.png" width="350px" style="display: block; margin: auto;">
+</figure>
 
 Hello everyone! I'm Aleksandr, a PhD student in Actuarial Science and your teaching assistant. When I'm not diving into research, you might find me snowboarding down slopes 🏂, trekking up mountains 🏔, tinkering with AI 🤖, or playing chess ♟. I'm dedicated and always aim for excellence. Let's make this academic journey memorable together! 🌟📚
 
